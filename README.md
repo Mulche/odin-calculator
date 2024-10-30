@@ -1,16 +1,16 @@
 A web-based calculator with a GUI.
 
-#Goals
+# Goals
 
-##A display showing the current number.
+## A display showing the current number.
 
 This display will update with each number or operator press.
 
-##Handle all basic math operations.
+## Handle all basic math operations.
 
-##Clickable buttons.
+## Clickable buttons.
 
-##Extras
+## Extras
 
 Keyboard support.
 
